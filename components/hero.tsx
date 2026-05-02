@@ -54,7 +54,7 @@ export function Hero() {
           >
             Escort services in{" "}
             <span className="relative inline-block">
-              <span className="text-gradient-rose">Hyderabad</span>
+              <span className="text-gradient-rose">Gurugram</span>
               <motion.span
                 initial={{ scaleX: 0 }}
                 animate={{ scaleX: 1 }}

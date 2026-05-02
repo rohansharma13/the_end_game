@@ -40,7 +40,7 @@ export function Navbar() {
               <span className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(255,255,255,0.25),transparent_55%)]" />
             </div>
             <div className="min-w-0">
-              <div className="text-[0.62rem] uppercase tracking-[0.32em] text-[var(--muted)]">Hyderabad</div>
+              <div className="text-[0.62rem] uppercase tracking-[0.32em] text-[var(--muted)]">Gurugram</div>
               <div className="truncate font-semibold tracking-tight text-[var(--foreground)]">Nocturne</div>
             </div>
           </Link>
